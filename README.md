@@ -2,6 +2,8 @@
 
 A simple and intuitive ToDo application built with Django that allows users to manage tasks efficiently. The app is designed with a clean, minimalistic UI and offers essential features to organize and track tasks.
 
+![image](https://github.com/user-attachments/assets/e7d93fc1-319a-4c56-a3c1-4a1c7f5c3688)
+
 ## Features
 
 - **Day/Light Mode Toggle**: Switch between day and light mode for a more comfortable user experience based on your preference.
